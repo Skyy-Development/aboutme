@@ -30,7 +30,7 @@ const rawCommands: Command[] = [
 		},
 	},
 	{
-		name: 'info',
+		name: 'aboutme',
 		icon: 'fas fa-fw fa-info-circle',
 		description: 'Show information about me',
 		execute(app) {
