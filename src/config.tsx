@@ -1,23 +1,23 @@
 import React from 'react'
-const github_username = 'darkguy10'
-const discord_usertag = 'HaiseSasaki#7599'
-const discord_userid = '755109987474473059'
-const email = 'harperburn@protonmail.ch'
+const github_username = 'Skyy-Development'
+const discord_usertag = 'skyycodee'
+const discord_userid = '1131236182899052696'
+const email = ''
 
 const projects = [
-	'darkguy10/BotClient',
-	'darkguy10/Shellplate',
-	'darkguy10/Fakestream',
-	'darkguy10/ControlPanelAPI.js',
-	'darkguy10/Deb8M8',
-	'darkguy10/EmojiSteal',
+	'',
+	'',
+	'',
+	'',
+	'',
+	'',
 ]
 
 const links = [
 	{
 		name: 'GitHub',
 		icon: 'fab fa-fw fa-github',
-		link: 'https://github.com/Skyy-Developmen',
+		link: 'https://github.com/Skyy-Development',
 		description: 'My profile on GitHub',
 	},
 	{
@@ -34,9 +34,9 @@ const links = [
 	},
 	/*
 	{
-		name: 'E-mail',
+		name: 'Contact',
 		icon: 'fas fa-fw fa-at',
-		link: `mailto:${email}`,
+		link: `DM me on discord:${email}`,
 		description: 'Lets get in touch!',
 	},
 */
