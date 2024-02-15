@@ -1,5 +1,5 @@
 import React from 'react'
-const github_username = 'Skyy-Development'
+const github_username = 'skyy-Development'
 const discord_usertag = 'skyycodee'
 const discord_userid = '1131236182899052696'
 const email = ''
