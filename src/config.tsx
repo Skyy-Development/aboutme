@@ -17,13 +17,13 @@ const links = [
 	{
 		name: 'GitHub',
 		icon: 'fab fa-fw fa-github',
-		link: 'https://github.com/darkguy10',
+		link: 'https://github.com/Skyy-Developmen',
 		description: 'My profile on GitHub',
 	},
 	{
 		name: 'Website',
 		icon: 'fas fa-fw fa-coffee',
-		link: 'https://darkguy10.github.io/',
+		link: 'https://e-z.bio/dashboard',
 		description: 'Personal website',
 	},
 	{
@@ -44,7 +44,7 @@ const links = [
 
 const info = (
 	<>
-		<p>Yo! I'm a highschooler who codes as a hobby.</p>
+		<p>Hello i'm a developer from germany:)</p>
 		<p>
 			I've got intermediate experience with{' '}
 			<span className="highlighted">JavaScript</span> and{' '}
