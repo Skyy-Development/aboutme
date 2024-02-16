@@ -5,11 +5,11 @@ const discord_userid = '1131236182899052696'
 const email = ''
 
 const projects = [
-	'My Bots are hosted by',
-	'https://diresnode.com/',
-	'Big shoutout to Hydra and Amelia',
-	'For giving this host du us!',
-	'<3',
+	'',
+	'',
+	'',
+	'',
+	'',
 	'',
 ]
 
