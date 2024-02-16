@@ -48,7 +48,7 @@ const info = (
 		<p>
 			I've got intermediate experience with{' '}
 			<span className="highlighted">JavaScript</span> and{' '}
-			<span className="highlighted">Node.js</span>.
+			<span className="highlighted">discord.js</span>.
 		</p>
 		<p>
 			I've been doing{' '}
@@ -58,7 +58,7 @@ const info = (
 			<span className="highlighted">Next.js</span>
 		</p>
 		<p>
-			Aside from that, I have basic knowledge of{' '}
+			Aside from that, I have knowledge of{' '}
 			<span className="highlighted">python</span>,{' '}
 			<span className="highlighted">java</span> and{' '}
 			<span className="highlighted">shell scripting.</span>
