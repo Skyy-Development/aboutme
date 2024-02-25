@@ -47,8 +47,8 @@ const info = (
 		<p>Hello i'm a developer from germany:)</p>
 		<p>
 			I've got intermediate experience with{' '}
-			<span className="highlighted">JavaScript</span> and{' '}
-			<span className="highlighted">discord.js</span>.
+			<span className="highlighted">Python</span> and{' '}
+			<span className="highlighted">discord.py</span>.
 		</p>
 		<p>
 			I've been doing{' '}
