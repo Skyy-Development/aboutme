@@ -46,14 +46,14 @@ const info = (
 	<>
 		<p>Hello i'm a developer from germany:)</p>
 		<p>
-			I've got intermediate experience with{' '}
-			<span className="highlighted">Python</span> and{' '}
-			<span className="highlighted">discord.py</span>.
+			I've got experience with{' '}
+			<span className="highlighted">Typescript</span> and{' '}
+			<span className="highlighted">discord.js</span>.
 		</p>
 		<p>
 			I've been doing{' '}
-			<span className="highlighted">front-end web designing</span> as a
-			fun pastime for a couple of years now. Currently, I'm learning{' '}
+			<span className="highlighted">front and Backend Programming</span> as
+			for a couple of years now. Currently, I'm learning{' '}
 			<span className="highlighted">React</span> and{' '}
 			<span className="highlighted">Next.js</span>
 		</p>
