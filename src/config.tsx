@@ -5,7 +5,7 @@ const discord_userid = '1131236182899052696'
 const email = ''
 
 const projects = [
-	'',
+	'https://ttt-bot.mnode.net/',
 	'',
 	'',
 	'',
